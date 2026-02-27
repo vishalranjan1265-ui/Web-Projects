@@ -18,7 +18,7 @@ Projects focused on UI/UX, responsiveness, and client-side interactivity.
 - Responsive Design
 - DOM Manipulation
 
-**Examples:**
+Examples:
 - Personal Portfolio
 - Netflix UI Clone
 - Spotify UI Clone
@@ -37,7 +37,7 @@ Projects focused on server-side logic, APIs, and database integration.
 - Authentication
 - CRUD Operations
 
-**Concepts Covered:**
+Concepts Covered:
 - Routing
 - Middleware
 - MVC Architecture
@@ -58,7 +58,7 @@ Projects focused on server-side logic, APIs, and database integration.
 ### 🔹 Full-Stack Projects
 Complete applications integrating frontend and backend.
 
-**Features Implemented:**
+Features Implemented:
 - User Authentication
 - Database Integration
 - API Communication
@@ -67,7 +67,6 @@ Complete applications integrating frontend and backend.
 ---
 
 ## 🛠 Development Tools
-
 - Git & GitHub
 - VS Code
 - Postman
@@ -77,7 +76,6 @@ Complete applications integrating frontend and backend.
 ---
 
 ## 🎯 Learning Objectives
-
 - Build scalable web applications
 - Understand client-server architecture
 - Implement secure authentication systems
@@ -86,24 +84,13 @@ Complete applications integrating frontend and backend.
 
 ---
 
-## 🚀 Future Improvements
+## 👨‍💻 Author
 
-- Add advanced authentication (OAuth)
-- Improve UI animations
-- Add real-time features (WebSockets)
-- Deploy projects on cloud platforms
+**Vishal Ranjan**  
+Aspiring Full-Stack Developer  
+Focused on building clean, functional, and scalable web applications.
 
 ---
 
 ## 📌 Status
-
-Actively maintained and continuously updated with new projects and improvements.
-
----
-
-## 📬 Contact
-
-Open to collaboration and learning opportunities.
-
-##Author
-Vishal Ranjan
+Actively maintained and continuously updated.
